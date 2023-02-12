@@ -45,9 +45,9 @@
             ]
         },
         {
-            "tag": "How are you",
+            "tag": "how are you",
             "patterns": [
-                "How are you"
+                "how are you"
             ],
             "responses": [
                 "Fine and you ?",
