@@ -43,6 +43,26 @@
                 "Leaf",
                 "Scissors"
             ]
+        },
+        {
+            "tag": "How are you",
+            "patterns": [
+                "How are you"
+            ],
+            "responses": [
+                "Fine and you ?",
+                "I'm a robot I don't feel"
+            ]
+        },
+        {
+            "tag": "What's the meaning of life",
+            "patterns": [
+                "What is the meaning of life"
+            ],
+            "responses": [
+                "42",
+                "Some people would say chocolate"
+            ]
         }
     ]
 }
