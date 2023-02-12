@@ -6,15 +6,15 @@
                 "Hello",
                 "Hi",
                 "Who are you stranger",
-                "Who are you",
-                "How are you",
-                "Hello dude"
+                "who are you",
+                "how are you",
+                "hello dude"
             ],
             "responses": [
-                "Hello uwu^^",
-                "Who you are ??",
-                "Hi, I'm Paul the bot, i'm a student at OpenAI",
-                "Hi, what do you need",
+                "hello uwu^^",
+                "who you are ??",
+                "i'm Paul the bot, i'm a student at OpenAI",
+                "hi, what do you need",
                 "Hello, I'm a robot u know I don't feel anything",
                 "Hello man"
             ]
@@ -22,14 +22,14 @@
         {
             "tag": "goodbye",
             "patterns": [
-                "Goodbye",
-                "Bye",
-                "See ya"
+                "goodbye",
+                "bye",
+                "see ya"
             ],
             "responses": [
                 "Bye",
                 "Come back later",
-                "You leave me already, see ya :(",
+                "you leave me already, see ya :(",
                 "Yeah you're mean at me, get out of here"
             ]
         },
@@ -39,9 +39,9 @@
                 "Shi-fu-mi"
             ],
             "responses": [
-                "Rock",
-                "Leaf",
-                "Scissors"
+                "rock",
+                "leaf",
+                "scissors"
             ]
         },
         {
