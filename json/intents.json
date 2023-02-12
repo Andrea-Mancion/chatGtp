@@ -1,0 +1,48 @@
+{
+    "intents": [
+        {
+            "tag": "greeting",
+            "patterns": [
+                "Hello",
+                "Hi",
+                "Who are you stranger",
+                "Who are you",
+                "How are you",
+                "Hello dude"
+            ],
+            "responses": [
+                "Hello uwu^^",
+                "Who you are ??",
+                "Hi, I'm Paul the bot, i'm a student at OpenAI",
+                "Hi, what do you need",
+                "Hello, I'm a robot u know I don't feel anything",
+                "Hello man"
+            ]
+        },
+        {
+            "tag": "goodbye",
+            "patterns": [
+                "Goodbye",
+                "Bye",
+                "See ya"
+            ],
+            "responses": [
+                "Bye",
+                "Come back later",
+                "You leave me already, see ya :(",
+                "Yeah you're mean at me, get out of here"
+            ]
+        },
+        {
+            "tag": "Shi-fu-mi",
+            "patterns": [
+                "Shi-fu-mi"
+            ],
+            "responses": [
+                "Rock",
+                "Leaf",
+                "Scissors"
+            ]
+        }
+    ]
+}
